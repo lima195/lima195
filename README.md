@@ -4,8 +4,8 @@
 - 📫 You can reach me at linkedin https://www.linkedin.com/in/pedrohgdl/
 
 <div class="statistics">
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=lima195&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FFC428&hide_border=true&border_radius=10"/>
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima195&layout=compact&langs_count=16&theme=dark&title_color=FFC428&hide_border=true&border_radius=10"/>
+  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=lima195&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima195&layout=compact&langs_count=16&theme=dark&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Magento" height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
