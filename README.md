@@ -14,5 +14,6 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <br/>
+  <img align="right" alt="Professional - Certified" height="100" width="100" src="https://images.credly.com/size/340x340/images/48e73336-c91d-477f-a66f-3ad950acb597/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png"/>
 </div>
-<img align="center" alt="Professional - Certified" height="80" width="40" src="https://raw.githubusercontent.com/krisdante/m2-cert-badges-svg/40c85e5b169cfc4abd342ef8ae5f2dbc1dc11da9/m2cert-prof-dev.svg"/>
