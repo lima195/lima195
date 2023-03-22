@@ -16,4 +16,5 @@
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <br/>
   <img align="right" alt="Professional - Certified" height="100" width="100" src="https://images.credly.com/size/340x340/images/48e73336-c91d-477f-a66f-3ad950acb597/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png"/>
+  <img align="right" alt="Professional - Certified" height="100" width="100" src="https://images.credly.com/images/523dfe10-7636-4231-afc1-b8318b523e34/Adobe_Certified_Expert_Experience_Cloud_products_Digital_Badge.png"/>
 </div>
